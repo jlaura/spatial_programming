@@ -1,0 +1,21 @@
+# Python Basics I
+
+## Interpreters & Editors
+### Eclipse
+### Visual Studio
+### PyCharm
+### WingIDE
+### VIM
+### Komodo IDE
+### IPython
+
+## The Zen of TDD
+
+## Version Control & TDD
+
+## Making Simple Tests Pass
+### Booleans
+### Commit
+
+### Numbers and Mathematics
+### Commit

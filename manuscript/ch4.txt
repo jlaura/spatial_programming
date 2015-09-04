@@ -1,0 +1,14 @@
+# Python Basics II
+
+## Types of Tests
+## Testing with `Nose`
+## Iterables
+### Lists 
+
+### Sets
+
+### Dictionaries
+
+### Tuples
+Ideal for point (x,y) or (x,y,z) storage when immutability is important. 
+### Arrays

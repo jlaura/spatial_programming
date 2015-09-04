@@ -1,2 +1,12 @@
-#Chapter 2
-Testing the post commit hook.
+#Preliminaries
+
+This format is pulled from Wes's Pandas book
+
+## What is this book about?
+## Why Python for Spatial Programming?
+## Essential Spatial Libraries
+## Installation and Setup
+### Getting Python and Getting the Code
+## Community and Conferences
+## Navigating this Book
+## Acknowledgements
